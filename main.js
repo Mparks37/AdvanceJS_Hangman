@@ -36,7 +36,7 @@ var userGuess = 10;
 		letTheGameBegin(guesses);
 
 	});
-}// end of the funcition and the game! :)
+}// end of the function and the game! :)
 
 
 
