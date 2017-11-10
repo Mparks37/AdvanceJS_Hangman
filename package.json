@@ -1,0 +1,22 @@
+{
+  "name": "advancejs_hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mparks37/AdvanceJS_Hangman.git"
+  },
+  "author": "Mike Parks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mparks37/AdvanceJS_Hangman/issues"
+  },
+  "homepage": "https://github.com/Mparks37/AdvanceJS_Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
